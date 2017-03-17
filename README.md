@@ -4,7 +4,7 @@ Hey, Pixels! In this week’s tutorial, I’ll be showing you how to code a cool
 & [View the demo](http://xopixel.com/demo/Typing%20Effect%20Animation%20CSS3/)
 
 ## License
-Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
+Read the License & Terms of Use [here](http://xopixel.com/terms-of-use/)
 
 ## Credits
 - [Lea Verous](http://lea.verou.me/2011/09/pure-css3-typing-animation-with-steps/" target="_blank)
